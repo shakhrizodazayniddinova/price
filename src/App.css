@@ -1,0 +1,57 @@
+header{
+  height: 70px;
+}
+
+#pricing{
+  padding: 0 250px;
+}
+#pricing .pricingText{
+  padding-top: 55px;
+}
+#pricing .pricingText .price{
+  font-size: 55px;
+  font-weight: 300;
+}
+
+#pricing .pricingText .priceTitle{
+  width: 670px;
+  font-weight: 300;
+}
+#pricing .pricingCard{
+  padding-bottom: 70px;
+}
+#pricing .pricingCard .card{
+  max-width: 300px;
+  height: 326px;
+}
+#pricing .pricingCard .cardHead{
+  width: 300px;
+  height: 53px;
+  background-color: rgba(0, 0, 0, .03);
+}
+#pricing .pricingCard .cardMain .cardBtn{
+  width: 260px;
+  height: 47px;
+}
+#pricing .pricingCard .cardMain .cardBtns:hover{
+  background-color: #0059de !important;
+}
+.cardBtn1:hover{
+  color: white !important;
+  background-color: #1f77fb !important;
+  transition: 0.3s;
+}
+
+footer{
+  padding: 40px 300px;
+}
+footer .footerLogo img{
+  width: 24px;
+  height: 24px;
+}
+footer .footerLogo p{
+  font-size: 12px;
+}
+.listA:hover{
+  border-bottom: 1px solid gray;
+}
