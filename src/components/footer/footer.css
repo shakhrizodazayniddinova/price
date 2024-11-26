@@ -1,0 +1,13 @@
+footer{
+    padding: 40px 300px;
+}
+footer .footerLogo img{
+    width: 24px;
+    height: 24px;
+}
+footer .footerLogo p{
+    font-size: 12px;
+}
+.listA:hover{
+    border-bottom: 1px solid gray;
+}
